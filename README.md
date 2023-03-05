@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Dima
+
+![](https://komarev.com/ghpvc/?username=DimaSmaha&style=flat-square)
 
 <!--
 **DimaSmaha/DimaSmaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
