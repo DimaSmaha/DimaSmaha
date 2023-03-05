@@ -6,6 +6,15 @@
 ### I have worked with a bunch of different languages and frameworks, wrote a lot of automated tests on the different frameworks, you can check some of my repositories with my autotests.
 ### I am an experienced Automation Engineer, mainly oriented on the Web Testing, API Testing, Web Automation, Mobile Automation.
 
+<h4 align="center">
+  📫 How to reach me 💬
+</h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/dmytro-smaha">
+  <img height="32" src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png"/>
+</a>
+</p>
+
 ### Languages:
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
