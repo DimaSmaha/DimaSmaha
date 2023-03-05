@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Dima
 
-![](https://komarev.com/ghpvc/?username=DimaSmaha&style=flat-square&color=#27fc0f)
+![](https://komarev.com/ghpvc/?username=DimaSmaha&style=flat-square&color=27fc0f)
 
 ## Currently I'm handling a role of a QA Automation Engineer/QA manual
 ### I have worked with a bunch of different languages and frameworks, wrote a lot of automated tests on the different frameworks, you can check some of my repositories with my autotests.
