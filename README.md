@@ -66,10 +66,25 @@
 <img align="left" alt="Fiddler" width="26px" src="https://www.wizcase.com/wp-content/uploads/2022/03/en-fiddler-logo.jpg" />
 <img align="left" alt="Jmeter" width="26px" src="https://jmeter.apache.org/images/jmeter_square.svg" />
 <img align="left" alt="k6" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1058px-K6-logo.svg.png" />
-<img align="left" alt="" width="26px" src="" />
+<img align="left" alt="" width="26px" src="" 
 
 <br />
 <br />
+<br />
+ 
+<!-- ![Top Langs] -->
+<p align="center">
+  <a href="https://github.com/DimaSmaha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaSmaha&layout=compact&theme=light&hide_border=true&show_icons=true" alt="DimaSmaha's github stats"></a>
+</p>
+<!-- Dima's github stats -->
+<p align="center">
+  <a href="https://github.com/DimaSmaha"><img src="https://github-readme-stats.vercel.app/api?username=DimaSmaha&show_icons=true&hide_border=true&theme=light" alt="DimaSmaha's github stats"></a>
+</p>
+<!-- Trophy -->
+<p align="center">
+  <a href="https://github.com/DimaSmaha/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DimaSmaha"></a>
+</p>
+  
 <!--
 **DimaSmaha/DimaSmaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
