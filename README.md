@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=DimaSmaha&style=flat-square)
 
 ## Currently I'm handling a role of a QA Automation Engineer/QA manual
-### I have worked with a bunch of different languages and frameworks, wrote a bunch of automated tests on different frameworks, you can check some of my repositories with my autotests.
+### I have worked with a bunch of different languages and frameworks, wrote a lot of automated tests on the different frameworks, you can check some of my repositories with my autotests.
 ### I am an experienced Automation Engineer, mainly oriented on the Web Testing, API Testing, Web Automation, Mobile Automation.
 
 ### Languages:
