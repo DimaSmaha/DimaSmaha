@@ -53,7 +53,7 @@
 <img align="left" alt="TestRail" width="26px" src="https://media.gurock.com/gk-media/logos/TestRail%20Logo%20Square.svg" />
 <img align="left" alt="Figma" width="26px" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" />
 <img align="left" alt="Postman" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
-<img align="left" alt="Assertible" width="26px" src="https://pbs.twimg.com/media/D0cGudmUUAAgaFp?format=jpg&name=4096x4096" />
+<img align="left" alt="Assertible" width="26px" src="https://assertible.com/fonts/logo.a9f30ec66525a738d596c0d72f1c4ee6.svg" />
 <img align="left" alt="RestAssured" width="26px" src="https://miro.medium.com/v2/resize:fit:800/1*qmS-f8Pv72ZavjF22v-xiw.png" />
 <img align="left" alt="Swagger" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" />
 <img align="left" alt="Runscope" width="26px" src="https://www.runscope.com/static/img/public/share-image.png" />
