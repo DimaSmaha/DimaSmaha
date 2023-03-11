@@ -76,7 +76,7 @@
  
 <!-- ![Top Langs] -->
 <p align="center">
-  <a href="https://github.com/DimaSmaha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaSmaha&layout=compact&theme=light&hide_border=true&show_icons=true" alt="DimaSmaha's github stats"></a>
+  <a href="https://github.com/DimaSmaha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaSmaha&layout=compact&theme=light&hide_border=true&show_icons=true&hide=kotlin" alt="DimaSmaha's github stats"></a>
 </p>
 <!-- Dima's github stats -->
 <p align="center">
