@@ -42,16 +42,16 @@
 <br />
 
 ### Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/assets/images/code-stable.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Intellij Idea" width="26px" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" />
-<img align="left" alt="Android Studio" width="26px" src="https://seeklogo.com/images/A/android-studio-logo-1EE788C6EC-seeklogo.com.png" />
+<img align="left" alt="Android Studio" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />
 <img align="left" alt="Appium" width="26px" src="https://seeklogo.com/images/A/appium-logo-7A2DD5B4E3-seeklogo.com.png" />
 <img align="left" alt="BrowserStack" width="26px" src="https://seeklogo.com/images/B/browserstack-logo-7649F95939-seeklogo.com.png" />
-<img align="left" alt="Jira" width="26px" src="https://seeklogo.com/images/J/jira-logo-C71F8C0324-seeklogo.com.png" />
-<img align="left" alt="Confluence" width="26px" src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png" />
+<img align="left" alt="Jira" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" />
+<img align="left" alt="Confluence" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" />
 <img align="left" alt="TestRail" width="26px" src="https://media.gurock.com/gk-media/logos/TestRail%20Logo%20Square.svg" />
-<img align="left" alt="Figma" width="26px" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" />
+<img align="left" alt="Figma" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
 <img align="left" alt="Postman" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
 <img align="left" alt="Assertible" width="26px" src="https://assertible.com/fonts/logo.a9f30ec66525a738d596c0d72f1c4ee6.svg" />
 <img align="left" alt="RestAssured" width="26px" src="https://miro.medium.com/v2/resize:fit:800/1*qmS-f8Pv72ZavjF22v-xiw.png" />
