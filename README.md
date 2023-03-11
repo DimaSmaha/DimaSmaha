@@ -31,9 +31,9 @@
 <img align="left" alt="Cypress" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/a6526a9b865babf8d661779a5d1fff67672fce89/icons/file_type_cypress.svg" />
 <img align="left" alt="WebdriverIO" width="26px" src="https://raw.githubusercontent.com/webdriverio/webdriverio-schematics/HEAD/.github/assets/logo.png" />
 <img align="left" alt="Playwright" width="26px" src="https://playwright.dev/img/playwright-logo.svg" />
-<img align="left" alt="Cucumber" width="26px" src="https://seeklogo.com/images/C/cucumber-logo-D727C551CE-seeklogo.com.png" />
+<img align="left" alt="Cucumber" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" />
 <img align="left" alt="TestCafe" width="26px" src="https://seeklogo.com/images/T/testcafe-logo-6161D2C53D-seeklogo.com.png" />
-<img align="left" alt="Jasmine" width="26px" src="https://seeklogo.com/images/J/jasmine-logo-1A0FA4D537-seeklogo.com.png" />
+<img align="left" alt="Jasmine" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain.svg" />
 <img align="left" alt="Selenium" width="26px" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" />
 <img align="left" alt="Selenide" width="26px" src="https://pbs.twimg.com/profile_images/378800000484627924/ff1d3d03ad85234b0168493123816da2_400x400.png" />
 <img align="left" alt="Robot" width="26px" src="https://seeklogo.com/images/R/robot-framework-logo-FED576FF0B-seeklogo.com.png" />
