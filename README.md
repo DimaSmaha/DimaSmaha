@@ -38,12 +38,15 @@
 <img align="left" alt="Selenide" width="26px" src="https://pbs.twimg.com/profile_images/378800000484627924/ff1d3d03ad85234b0168493123816da2_400x400.png" />
 <img align="left" alt="Robot" width="26px" src="https://seeklogo.com/images/R/robot-framework-logo-FED576FF0B-seeklogo.com.png" />
 <img align="left" alt="Squish" width="26px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_8fbd0a28d94c4dea3bfeeec0f5bb59eb/squish-gui-tester.png" />
+<img align="left" alt="Pytest" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" />
 <br />
 <br />
 
 ### Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Visual Studio" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="Intellij Idea" width="26px" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" />
+<img align="left" alt="Pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
 <img align="left" alt="Android Studio" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />
 <img align="left" alt="Appium" width="26px" src="https://seeklogo.com/images/A/appium-logo-7A2DD5B4E3-seeklogo.com.png" />
@@ -57,9 +60,7 @@
 <img align="left" alt="RestAssured" width="26px" src="https://miro.medium.com/v2/resize:fit:800/1*qmS-f8Pv72ZavjF22v-xiw.png" />
 <img align="left" alt="Swagger" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" />
 <img align="left" alt="Runscope" width="26px" src="https://www.runscope.com/static/img/public/share-image.png" />
-<br />
-<br />
-<img align="left" alt="DevTools" width="26px" src="https://avatars.githubusercontent.com/u/11260967?s=280&v=4" />
+<img align="left" alt="DevTools" width="26px" src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/svg/chrome-devtools-square-responsive.svg" />
 <img align="left" alt="Allure" width="26px" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" />
 <img align="left" alt="Owasp Zap" width="26px" src="https://avatars.githubusercontent.com/u/6716868?s=280&v=4" />
 <img align="left" alt="Charles" width="26px" src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" />
