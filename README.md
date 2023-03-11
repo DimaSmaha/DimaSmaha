@@ -17,13 +17,13 @@
 
 ### Languages:
 
-<img align="left" alt="JavaScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" />
-<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919854.png" />
-<img align="left" alt="C#" width="26px" src="https://img.icons8.com/color/344/c-sharp-logo-2.png" />
-<img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Java" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
+<img align="left" alt="C#" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+<img align="left" alt="HTML5" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
 <br />
 <br />
 
