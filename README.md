@@ -82,7 +82,7 @@
 <p align="center">
   <a href="https://github.com/DimaSmaha"><img src="https://github-readme-stats.vercel.app/api?username=DimaSmaha&show_icons=true&hide_border=true&theme=light" alt="DimaSmaha's github stats"></a>
 </p>
-<!-- Trophy -->
+<!-- Dima's Trophies -->
 <p align="center">
   <a href="https://github.com/DimaSmaha/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DimaSmaha"></a>
 </p>
