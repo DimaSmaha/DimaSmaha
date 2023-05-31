@@ -10,7 +10,7 @@
   📫 How to reach me 💬
 </h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/dmytro-smaha-1635a6232/">
+<a href="https://www.linkedin.com/in/dmytro-smaha-1635a6232/" target="_blank">
   <img height="32" src="https://cdn-icons-png.flaticon.com/512/1377/1377213.png"/>
 </a>
 </p>
