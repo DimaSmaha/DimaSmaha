@@ -28,9 +28,9 @@
 <br />
 
 ### Frameworks:
-<img align="left" alt="Cypress" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/a6526a9b865babf8d661779a5d1fff67672fce89/icons/file_type_cypress.svg" />
-<img align="left" alt="WebdriverIO" width="26px" src="https://raw.githubusercontent.com/webdriverio/webdriverio-schematics/HEAD/.github/assets/logo.png" />
 <img align="left" alt="Playwright" width="26px" src="https://playwright.dev/img/playwright-logo.svg" />
+<img align="left" alt="WebdriverIO" width="26px" src="https://raw.githubusercontent.com/webdriverio/webdriverio-schematics/HEAD/.github/assets/logo.png" />
+<img align="left" alt="Cypress" width="26px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/a6526a9b865babf8d661779a5d1fff67672fce89/icons/file_type_cypress.svg" />
 <img align="left" alt="Cucumber" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" />
 <img align="left" alt="TestCafe" width="26px" src="https://seeklogo.com/images/T/testcafe-logo-6161D2C53D-seeklogo.com.png" />
 <img align="left" alt="Jasmine" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain.svg" />
@@ -67,6 +67,9 @@
 <img align="left" alt="Fiddler" width="26px" src="https://www.wizcase.com/wp-content/uploads/2022/03/en-fiddler-logo.jpg" />
 <img align="left" alt="Jmeter" width="26px" src="https://jmeter.apache.org/images/jmeter_square.svg" />
 <img align="left" alt="k6" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1058px-K6-logo.svg.png" />
+<img align="left" alt="GH actions" width="26px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" />
+<img align="left" alt="Jenkins" width="26px" src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" />
+<img align="left" alt="Docker" width="26px" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" />
 <img align="left" alt="" width="26px" src="" 
 
 <br />
