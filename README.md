@@ -72,9 +72,8 @@
 <img align="left" alt="Docker" width="26px" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" />
 <img align="left" alt="Selenium Grid" width="26px" src="https://www.selenium.dev/images/logos/grid.svg" />
 <img align="left" alt="Jest" width="26px" src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/jest.dark.svg" />
-<img align="left" alt="Axios" width="26px" src="https://axios-http.com/assets/logo.svg" />
+<img align="left" alt="Axios" height="26px" width="26px" src="https://camo.githubusercontent.com/272811d860f3fab0dd8ff0690e2ca36afbf0c96ad44100b8d42dfdce8511679b/68747470733a2f2f6178696f732d687474702e636f6d2f6173736574732f6c6f676f2e737667" />
 
-<img align="left" alt="" width="26px" src="" 
 
 <br />
 <br />
