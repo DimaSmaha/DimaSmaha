@@ -70,7 +70,10 @@
 <img align="left" alt="GH actions" width="26px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" />
 <img align="left" alt="Jenkins" width="26px" src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" />
 <img align="left" alt="Docker" width="26px" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" />
-<img align="left" alt="Docker" width="26px" src="https://www.selenium.dev/images/logos/grid.svg" />
+<img align="left" alt="Selenium Grid" width="26px" src="https://www.selenium.dev/images/logos/grid.svg" />
+<img align="left" alt="Jest" width="26px" src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/jest.dark.svg" />
+<img align="left" alt="Axios" width="26px" src="https://axios-http.com/assets/logo.svg" />
+
 <img align="left" alt="" width="26px" src="" 
 
 <br />
