@@ -51,6 +51,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />
 <img align="left" alt="Appium" width="26px" src="https://seeklogo.com/images/A/appium-logo-7A2DD5B4E3-seeklogo.com.png" />
 <img align="left" alt="BrowserStack" width="26px" src="https://seeklogo.com/images/B/browserstack-logo-7649F95939-seeklogo.com.png" />
+<img align="left" alt="Sauce Labs" width="26px" src="https://logosandtypes.com/wp-content/uploads/2023/03/sauce-labs.svg" />
 <img align="left" alt="Jira" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" />
 <img align="left" alt="Confluence" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" />
 <img align="left" alt="TestRail" width="26px" src="https://media.gurock.com/gk-media/logos/TestRail%20Logo%20Square.svg" />
@@ -72,9 +73,9 @@
 <img align="left" alt="Docker" width="26px" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" />
 <img align="left" alt="Selenium Grid" width="26px" src="https://www.selenium.dev/images/logos/grid.svg" />
 <img align="left" alt="Jest" width="26px" src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/jest.dark.svg" />
-<img align="left" alt="Axios" height="26px" width="26px" src="https://camo.githubusercontent.com/272811d860f3fab0dd8ff0690e2ca36afbf0c96ad44100b8d42dfdce8511679b/68747470733a2f2f6178696f732d687474702e636f6d2f6173736574732f6c6f676f2e737667" />
-<img align="left" alt="Axios" height="26px" width="26px" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" />
+<img align="left" alt="Axios" height="26px" width="50px" src="https://seeklogo.com/images/A/axios-logo-CD0C90458F-seeklogo.com.png" />
 <img align="left" alt="Selenium Grid" width="26px" src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" />
+<img align="left" alt="Bash" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />
 
 
 <br />
