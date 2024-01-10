@@ -77,6 +77,8 @@
 <img align="left" alt="Selenium Grid" width="30px" src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" />
 <br />
 <img align="left" alt="Bash" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />
+<img align="left" alt="SQL" width="40px" src="https://cdn-icons-png.flaticon.com/512/5815/5815478.png" />
+
 
 
 <br />
