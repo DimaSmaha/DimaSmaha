@@ -34,7 +34,7 @@
 <img align="left" alt="Cypress" width="30px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/a6526a9b865babf8d661779a5d1fff67672fce89/icons/file_type_cypress.svg" />
 <img align="left" alt="Cucumber" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" />
 <img align="left" alt="TestCafe" width="30px" src="https://seeklogo.com/images/T/testcafe-logo-6161D2C53D-seeklogo.com.png" />
-<img align="left" alt="Jasmine" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-plain.svg" />
+<img align="left" alt="Jasmine" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-original.svg" />
 <img align="left" alt="Selenium" width="30px" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" />
 <img align="left" alt="Selenide" width="30px" src="https://pbs.twimg.com/profile_images/378800000484627924/ff1d3d03ad85234b0168493123816da2_400x400.png" />
 <img align="left" alt="Robot" width="30px" src="https://seeklogo.com/images/R/robot-framework-logo-FED576FF0B-seeklogo.com.png" />
