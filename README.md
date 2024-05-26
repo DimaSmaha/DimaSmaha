@@ -75,7 +75,8 @@
 <img align="left" alt="Selenium Grid" width="30px" src="https://www.selenium.dev/images/logos/grid.svg" />
 <img align="left" alt="Jest" width="30px" src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/jest.dark.svg" />
 <img align="left" alt="Axios" height="26px" width="50px" src="https://seeklogo.com/images/A/axios-logo-CD0C90458F-seeklogo.com.png" />
-<img align="left" alt="Selenium Grid" width="30px" src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" />
+<img align="left" alt="Windows Driver" width="30px" src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" />
+<br />
 <br />
 <img align="left" alt="Bash" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />
 <img align="left" alt="AWS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
