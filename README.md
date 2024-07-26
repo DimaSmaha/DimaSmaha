@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=DimaSmaha&style=flat-square&color=brightgreen)
 
-## Currently I'm handling a role of a QA Automation Engineer/QA Manual
-### I have worked with a bunch of programming different languages and frameworks, wrote a lot of automated tests on the different frameworks, you can check some of my repositories with my autotests.
-### I am an experienced Automation Engineer, mainly oriented on the Web Testing, API Testing, Web Automation, Mobile Automation.
+## Currently I'm handling the role of a QA Automation Engineer/QA Manual
+### I have worked with a bunch of programming different languages and frameworks and wrote a lot of automated tests on the different frameworks, you can check some of my repositories with my autotests.
+### I am an experienced Automation Engineer, mainly oriented to Web Testing, API Testing, Web Automation, and Mobile Automation.
 
 <h4 align="center">
   📫 How to reach me 💬
@@ -16,7 +16,6 @@
 </p>
 
 ### Languages:
-
 <img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Java" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
@@ -40,50 +39,90 @@
 <img align="left" alt="Robot" width="30px" src="https://seeklogo.com/images/R/robot-framework-logo-FED576FF0B-seeklogo.com.png" />
 <img align="left" alt="Squish" width="30px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_8fbd0a28d94c4dea3bfeeec0f5bb59eb/squish-gui-tester.png" />
 <img align="left" alt="Pytest" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" />
+<img align="left" alt="Jest" width="30px" src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/jest.dark.svg" />
 <br />
 <br />
 
-### Tools:
+#### Tools:
 <img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Visual Studio" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="Intellij Idea" width="30px" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" />
 <img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
 <img align="left" alt="Android Studio" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="Node.js" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />
-<img align="left" alt="Appium" width="30px" src="https://seeklogo.com/images/A/appium-logo-7A2DD5B4E3-seeklogo.com.png" />
-<img align="left" alt="BrowserStack" width="30px" src="https://seeklogo.com/images/B/browserstack-logo-7649F95939-seeklogo.com.png" />
-<img align="left" alt="Sauce Labs" width="30px" src="https://logosandtypes.com/wp-content/uploads/2023/03/sauce-labs.svg" />
+<br />
+
+#### Project-related tools and bug-tracking systems:
 <img align="left" alt="Jira" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" />
 <img align="left" alt="Confluence" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" />
 <img align="left" alt="TestRail" width="30px" src="https://media.gurock.com/gk-media/logos/TestRail%20Logo%20Square.svg" />
 <img align="left" alt="Figma" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+<br />
+
+#### API Testing Tools:
 <img align="left" alt="Postman" width="30px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
 <img align="left" alt="Assertible" width="30px" src="https://assertible.com/fonts/logo.a9f30ec66525a738d596c0d72f1c4ee6.svg" />
 <img align="left" alt="RestAssured" width="30px" src="https://miro.medium.com/v2/resize:fit:800/1*qmS-f8Pv72ZavjF22v-xiw.png" />
 <img align="left" alt="Swagger" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" />
 <img align="left" alt="Runscope" width="30px" src="https://www.runscope.com/static/img/public/share-image.png" />
-<img align="left" alt="DevTools" width="30px" src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/svg/chrome-devtools-square-responsive.svg" />
+<img align="left" alt="Axios" height="26px" width="50px" src="https://seeklogo.com/images/A/axios-logo-CD0C90458F-seeklogo.com.png" />
+<br />
+
+#### DevTools:
+<img align="left" alt="Chrome DevTools" width="30px" src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/svg/chrome-devtools-square-responsive.svg" />
+<br />
+
+#### Clouds:
+<img align="left" alt="AWS" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<br />
+
+#### Reporters:
 <img align="left" alt="Allure" width="30px" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" />
-<img align="left" alt="Owasp Zap" width="30px" src="https://avatars.githubusercontent.com/u/6716868?s=280&v=4" />
-<img align="left" alt="Charles" width="30px" src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" />
-<img align="left" alt="Fiddler" width="30px" src="https://www.wizcase.com/wp-content/uploads/2022/03/en-fiddler-logo.jpg" />
-<img align="left" alt="Jmeter" width="30px" src="https://jmeter.apache.org/images/jmeter_square.svg" />
-<img align="left" alt="k6" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1058px-K6-logo.svg.png" />
+<br />
+
+#### CLI:
+<img align="left" alt="Bash" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />
+<br />
+
+#### Mobile Testing Tools:
+<img align="left" alt="Appium" width="30px" src="https://seeklogo.com/images/A/appium-logo-7A2DD5B4E3-seeklogo.com.png" />
+<img align="left" alt="BrowserStack" width="30px" src="https://seeklogo.com/images/B/browserstack-logo-7649F95939-seeklogo.com.png" />
+<img align="left" alt="Sauce Labs" width="30px" src="https://logosandtypes.com/wp-content/uploads/2023/03/sauce-labs.svg" />
+<br />
+
+#### CI/CD Tools:
 <img align="left" alt="GH actions" width="30px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" />
 <img align="left" alt="Jenkins" width="30px" src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" />
+<br />
+<br />
+
+#### Containerization & Test Execution:
 <img align="left" alt="Docker" width="30px" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" />
 <img align="left" alt="Selenium Grid" width="30px" src="https://www.selenium.dev/images/logos/grid.svg" />
-<img align="left" alt="Jest" width="30px" src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/jest.dark.svg" />
-<img align="left" alt="Axios" height="26px" width="50px" src="https://seeklogo.com/images/A/axios-logo-CD0C90458F-seeklogo.com.png" />
+<br />
+
+#### Sniffers:
+<img align="left" alt="Charles" width="30px" src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" />
+<img align="left" alt="Fiddler" width="30px" src="https://www.wizcase.com/wp-content/uploads/2022/03/en-fiddler-logo.jpg" />
+<br />
+
+#### RDBMS:
+<img align="left" alt="DBeaver" width="30px" src="https://seeklogo.com/images/D/dbeaver-logo-E07205C498-seeklogo.com.png" />
+<img align="left" alt="MS SQL Server" width="30px" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" />
+<br />
+
+#### Load Testing:
+<img align="left" alt="Jmeter" width="30px" src="https://jmeter.apache.org/images/jmeter_square.svg" />
+<img align="left" alt="k6" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1058px-K6-logo.svg.png" />
+<br />
+
+#### Security Testing Tools:
+<img align="left" alt="Owasp Zap" width="30px" src="https://avatars.githubusercontent.com/u/6716868?s=280&v=4" />
+<br />
+
+#### Desktop Applications Testing Tools:
 <img align="left" alt="Windows Driver" width="30px" src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" />
 <br />
-<br />
-<img align="left" alt="Bash" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />
-<img align="left" alt="AWS" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="left" alt="DBeaver" width="30px" src="https://seeklogo.com/images/D/dbeaver-logo-E07205C498-seeklogo.com.png" />
-
-
-
 
 <br />
 <br />
