@@ -25,6 +25,7 @@
   <img align="left" alt="HTML5" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
   <img align="left" alt="CSS3" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
   <img align="left" alt="SQL" width="40px" src="https://cdn-icons-png.flaticon.com/512/5815/5815478.png" />
+  </br>
 </div>
 
 ### Frameworks:
@@ -41,6 +42,7 @@
   <img align="left" alt="Squish" width="30px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_8fbd0a28d94c4dea3bfeeec0f5bb59eb/squish-gui-tester.png" />
   <img align="left" alt="Pytest" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" />
   <img align="left" alt="Jest" width="30px" src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/jest.dark.svg" />
+  </br>
 </div>
 
 #### Tools:
@@ -51,6 +53,7 @@
   <img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
   <img align="left" alt="Android Studio" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" />
   <img align="left" alt="Node.js" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />
+  </br>
 </div>
 
 #### Project-related tools and bug-tracking systems:
@@ -59,6 +62,7 @@
   <img align="left" alt="Confluence" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" />
   <img align="left" alt="TestRail" width="30px" src="https://media.gurock.com/gk-media/logos/TestRail%20Logo%20Square.svg" />
   <img align="left" alt="Figma" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+  </br>
 </div>
 
 #### API Testing Tools:
@@ -69,26 +73,31 @@
   <img align="left" alt="Swagger" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" />
   <img align="left" alt="Runscope" width="30px" src="https://www.runscope.com/static/img/public/share-image.png" />
   <img align="left" alt="Axios" height="26px" width="50px" src="https://seeklogo.com/images/A/axios-logo-CD0C90458F-seeklogo.com.png" />
+  </br>
 </div>
 
 #### DevTools:
 <div style="display: flex; align-items: center;">
   <img align="left" alt="Chrome DevTools" width="30px" src="https://github.com/ChromeDevTools/devtools-logo/blob/master/logos/svg/chrome-devtools-square-responsive.svg" />
+  </br>
 </div>
 
 #### Clouds:
 <div style="display: flex; align-items: center;">
   <img align="left" alt="AWS" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  </br>
 </div>
 
 #### Reporters:
 <div style="display: flex; align-items: center;">
   <img align="left" alt="Allure" width="30px" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" />
+  </br>
 </div>
 
 #### CLI:
 <div style="display: flex; align-items: center;">
   <img align="left" alt="Bash" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" />
+  </br>
 </div>
 
 #### Mobile Testing Tools:
@@ -96,46 +105,55 @@
   <img align="left" alt="Appium" width="30px" src="https://seeklogo.com/images/A/appium-logo-7A2DD5B4E3-seeklogo.com.png" />
   <img align="left" alt="BrowserStack" width="30px" src="https://seeklogo.com/images/B/browserstack-logo-7649F95939-seeklogo.com.png" />
   <img align="left" alt="Sauce Labs" width="30px" src="https://logosandtypes.com/wp-content/uploads/2023/03/sauce-labs.svg" />
+  </br>
 </div>
 
 #### CI/CD Tools:
 <div style="display: flex; align-items: center;">
   <img align="left" alt="GH actions" width="30px" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" />
   <img align="left" alt="Jenkins" width="30px" src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" />
+  </br>
+  </br>
 </div>
 
 #### Containerization & Test Execution:
 <div style="display: flex; align-items: center;">
   <img align="left" alt="Docker" width="30px" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" />
   <img align="left" alt="Selenium Grid" width="30px" src="https://www.selenium.dev/images/logos/grid.svg" />
+  </br>
 </div>
 
 #### Sniffers:
 <div style="display: flex; align-items: center;">
   <img align="left" alt="Charles" width="30px" src="https://user-images.githubusercontent.com/15472/41327135-e4bf090c-6eca-11e8-9b76-032e8e2b0707.png" />
   <img align="left" alt="Fiddler" width="30px" src="https://www.wizcase.com/wp-content/uploads/2022/03/en-fiddler-logo.jpg" />
+  </br>
 </div>
 
 #### RDBMS:
 <div style="display: flex; align-items: center;">
   <img align="left" alt="DBeaver" width="30px" src="https://seeklogo.com/images/D/dbeaver-logo-E07205C498-seeklogo.com.png" />
   <img align="left" alt="MS SQL Server" width="30px" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" />
+  </br>
 </div>
 
 #### Load Testing:
 <div style="display: flex; align-items: center;">
   <img align="left" alt="Jmeter" width="30px" src="https://jmeter.apache.org/images/jmeter_square.svg" />
   <img align="left" alt="k6" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1058px-K6-logo.svg.png" />
+  </br>
 </div>
 
 #### Security Testing Tools:
 <div style="display: flex; align-items: center;">
   <img align="left" alt="Owasp Zap" width="30px" src="https://avatars.githubusercontent.com/u/6716868?s=280&v=4" />
+  </br>
 </div>
 
 #### Desktop Applications Testing Tools:
 <div style="display: flex; align-items: center;">
   <img align="left" alt="Windows Driver" width="30px" src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" />
+  </br>
 </div>
 
 <br />
