@@ -34,11 +34,11 @@
   <img align="left" alt="WebdriverIO" width="30px" src="https://raw.githubusercontent.com/webdriverio/webdriverio-schematics/HEAD/.github/assets/logo.png" />
   <img align="left" alt="Cypress" width="30px" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/a6526a9b865babf8d661779a5d1fff67672fce89/icons/file_type_cypress.svg" />
   <img align="left" alt="Cucumber" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" />
-  <img align="left" alt="TestCafe" width="30px" src="https://seeklogo.com/images/T/testcafe-logo-6161D2C53D-seeklogo.com.png" />
+  <img align="left" alt="TestCafe" width="30px" src="https://www.svgrepo.com/show/374124/testcafe.svg" />
   <img align="left" alt="Jasmine" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-original.svg" />
-  <img align="left" alt="Selenium" width="30px" src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" />
+  <img align="left" alt="Selenium" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" />
   <img align="left" alt="Selenide" width="30px" src="https://pbs.twimg.com/profile_images/378800000484627924/ff1d3d03ad85234b0168493123816da2_400x400.png" />
-  <img align="left" alt="Robot" width="30px" src="https://seeklogo.com/images/R/robot-framework-logo-FED576FF0B-seeklogo.com.png" />
+  <img align="left" alt="Robot" width="30px" src="https://cdn.worldvectorlogo.com/logos/robot-framework.svg" />
   <img align="left" alt="Squish" width="30px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_8fbd0a28d94c4dea3bfeeec0f5bb59eb/squish-gui-tester.png" />
   <img align="left" alt="Pytest" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" />
   <img align="left" alt="Jest" width="30px" src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/jest.dark.svg" />
@@ -49,7 +49,7 @@
 <div style="display: flex; align-items: center;">
   <img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
   <img align="left" alt="Visual Studio" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
-  <img align="left" alt="Intellij Idea" width="30px" src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" />
+  <img align="left" alt="Intellij Idea" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" />
   <img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
   <img align="left" alt="Android Studio" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" />
   <img align="left" alt="Node.js" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />
@@ -67,12 +67,12 @@
 
 #### API Testing Tools:
 <div style="display: flex; align-items: center;">
-  <img align="left" alt="Postman" width="30px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_alt_macos_bigsur_icon_189814.png" />
+  <img align="left" alt="Postman" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-plain.svg" />
   <img align="left" alt="Assertible" width="30px" src="https://assertible.com/fonts/logo.a9f30ec66525a738d596c0d72f1c4ee6.svg" />
   <img align="left" alt="RestAssured" width="30px" src="https://miro.medium.com/v2/resize:fit:800/1*qmS-f8Pv72ZavjF22v-xiw.png" />
   <img align="left" alt="Swagger" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" />
   <img align="left" alt="Runscope" width="30px" src="https://www.runscope.com/static/img/public/share-image.png" />
-  <img align="left" alt="Axios" height="26px" width="50px" src="https://seeklogo.com/images/A/axios-logo-CD0C90458F-seeklogo.com.png" />
+  <img align="left" alt="Axios" height="26px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" />
   </br>
 </div>
 
@@ -102,8 +102,8 @@
 
 #### Mobile Testing Tools:
 <div style="display: flex; align-items: center;">
-  <img align="left" alt="Appium" width="30px" src="https://seeklogo.com/images/A/appium-logo-7A2DD5B4E3-seeklogo.com.png" />
-  <img align="left" alt="BrowserStack" width="30px" src="https://seeklogo.com/images/B/browserstack-logo-7649F95939-seeklogo.com.png" />
+  <img align="left" alt="Appium" width="30px" src="https://cdn.worldvectorlogo.com/logos/appium.svg" />
+  <img align="left" alt="BrowserStack" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/browserstack/browserstack-original.svg" />
   <img align="left" alt="Sauce Labs" width="30px" src="https://logosandtypes.com/wp-content/uploads/2023/03/sauce-labs.svg" />
   </br>
 </div>
@@ -132,8 +132,8 @@
 
 #### RDBMS:
 <div style="display: flex; align-items: center;">
-  <img align="left" alt="DBeaver" width="30px" src="https://seeklogo.com/images/D/dbeaver-logo-E07205C498-seeklogo.com.png" />
-  <img align="left" alt="MS SQL Server" width="30px" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" />
+  <img align="left" alt="DBeaver" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/dbeaver/dbeaver-original.svg" />
+  <img align="left" alt="MS SQL Server" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
   </br>
 </div>
 
