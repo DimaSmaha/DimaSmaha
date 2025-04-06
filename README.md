@@ -4,7 +4,7 @@
 
 ## Currently, I'm handling the role of a Software Engineer in Test
 ### I have worked with a bunch of programming languages and frameworks, and written a lot of automated tests on the different frameworks. you can check some of my repositories with my autotests.
-### I am an experienced Automation Engineer, mainly oriented to Web Testing, API Testing, Web Automation, and Mobile Automation.
+### I am an experienced Automation Engineer, mainly oriented to Web Testing, API Testing, Web Automation, Mobile Automation, Performance testing, and Security testing.
 
 <h4 align="center">
   📫 How to reach me 💬
