@@ -41,7 +41,7 @@
   <img align="left" alt="Robot" width="30px" src="https://cdn.worldvectorlogo.com/logos/robot-framework.svg" />
   <img align="left" alt="Squish" width="30px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_8fbd0a28d94c4dea3bfeeec0f5bb59eb/squish-gui-tester.png" />
   <img align="left" alt="Pytest" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" />
-  <img align="left" alt="Jest" width="30px" src="https://raw.githubusercontent.com/bestofjs/bestofjs/master/apps/bestofjs-nextjs/public/logos/jest.dark.svg" />
+  <img align="left" alt="Jest" width="30px" src="https://raw.githubusercontent.com/bestofjs/bestofjs/refs/heads/develop/apps/web/public/logos/jest.dark.svg" />
   </br>
 </div>
 
