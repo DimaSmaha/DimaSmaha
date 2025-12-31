@@ -163,6 +163,12 @@
 <br />
 <br />
 
+<!-- ![Github Streak] 
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=DimaSmaha" alt="GitHub Streak" /></a>
+</p>
+<!-- &theme=dark&border_radius=6 -->
+
 <!-- ![Top Langs] 
 <p align="center">
   <a href="https://github.com/DimaSmaha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaSmaha&layout=compact&theme=light&hide_border=true&show_icons=true&hide=kotlin" alt="DimaSmaha's github stats"></a>
