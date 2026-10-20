@@ -2,9 +2,16 @@
 
 ![](https://komarev.com/ghpvc/?username=DimaSmaha&style=flat-square&color=brightgreen)
 
-## Currently, I'm handling the role of a Software Engineer in Test
+## Currently, I'm handling the role of a Senior Software Engineer in Test
 ### I have worked with a bunch of programming languages and frameworks, and written a lot of automated tests on the different frameworks. you can check some of my repositories with my autotests.
 ### I am an experienced Automation Engineer, mainly oriented to Web Testing, API Testing, Web Automation, Mobile Automation, Performance testing, and Security testing.
+### My focus is on creating maintainable frameworks, increasing test coverage, and driving team efficiency through best practices, training programs, and QA Centers of Excellence. I also develop AI-driven test automation workflows and agentic QA solutions to streamline the testing lifecycle, from requirements analysis and test case generation to automated test creation, PR generation, and failure analysis.
+#### I also contribute to open-source projects from time to time and enjoy sharing knowledge and exploring new approaches to software quality and engineering productivity. 
+Contributed to:
+[Deckcraft](https://github.com/storytold/deckcraft)
+[diduny-extension](https://github.com/rmarinsky/diduny-extension)
+
+
 
 <h4 align="center">
   📫 How to reach me 💬
